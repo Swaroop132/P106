@@ -1,0 +1,34 @@
+body {
+    font-family: 'Space Grotesk', sans-serif;
+    background-color: #f5dbda;
+}
+
+.header_div {
+    background-color: white;
+    color: #ce2700;
+}
+
+.header_div p {
+    font: bold 12px 'Roboto', sans-serif;
+    color: gray;
+    letter-spacing: 2px;
+}
+
+.main_div button {
+    font: bolder 'Roboto', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: #6c757d;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: whitesmoke;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
